@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student of [Pierre Peterlongo](http://people.rennes.inria.fr/Pierre.Peterlongo/) and [Tatiana Starikovskaya](https://starikovskaya.github.io/homepage/) working in the [Genscale Team](https://team.inria.fr/genscale/) at Inria Rennes and in the [Talgo Team](https://www.di.ens.fr/TalgoTeam.html.en) at École normale supérieure, France. I am intrested in algorithms on strings, compact data structure and hashing algorithms. I also enjoy implementing my research, especially the ones with applications to biology.
+I am a PhD student of [Pierre Peterlongo](http://people.rennes.inria.fr/Pierre.Peterlongo/) and [Tatiana Starikovskaya](https://starikovskaya.github.io/homepage/) working in the [Genscale Team](https://team.inria.fr/genscale/) at Inria Rennes and in the [Talgo Team](https://www.di.ens.fr/TalgoTeam.html.en) at École normale supérieure, France. I am interested in algorithms on strings, compact data structures and hashing algorithms. I also enjoy implementing algorithms, especially the ones with applications to biology.
 
 # Short bio
 
