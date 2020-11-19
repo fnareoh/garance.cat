@@ -14,7 +14,7 @@ I am a PhD student of [Pierre Peterlongo](http://people.rennes.inria.fr/Pierre.P
 
 * PhD in Computer Science, Inria Rennes IRISA and ENS Paris, Paris and Rennes, France, september 2020 - up to date.
 * Year of research (part of the degree of ENS Paris Saclay), Universita di Pisa, Italy, 2019-2020.
-* M.Sc in computer science : Master Parsien de recherche en informatique (MPRI) at École Normale Supérieure (ENS) Paris Saclay, Paris, France, 2017-2019.
+* M.Sc in computer science : Master Parisien de recherche en informatique (MPRI) at École Normale Supérieure (ENS) Paris Saclay, Paris, France, 2017-2019.
     * With the second year of master including a 5 months internship in ENS, Paris, France, with Tatiana Starikovskaya.
     * With the first year of master including a 5 months internship in la Universidad de Chile, Santiago, Chile, with Gonzalo Navarro and Travis Gagie.
 *  Third year of Bachelor, Major Computer Science minor mathematics, École Normale Supérieure (ENS) Paris Saclay, Cachan, France, 2016-2017.
